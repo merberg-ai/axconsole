@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.build-venv/
+build/
+dist/
+*.whl
+*.spec
+
+# Android / Gradle
+.gradle/
+.idea/
+local.properties
+**/build/
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Runtime state / credentials
+*.db
+*.sqlite
+*.sqlite3
+*.jsonl
+*.log
+*.token
+*.crt
+*.key
+remote-tokens.json
+sessions/
+exports/
+backups/
+
+# Editors / OS
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*~
